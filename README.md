@@ -17,24 +17,20 @@ This assignment is part of the hiring evaluation for the Web3 Trading Intelligen
 
 ## 📂 Repository Structure
 ds_yashi/
-│
-├── notebook_1.ipynb # Data cleaning, feature engineering, merging sentiment
-├── notebook_2.ipynb # Clustering, PCA, visualization, insights
-│
-├── csv_files/
-│ ├── fear_greed_index.csv
-│ └── historical_data.csv
-│
-├── outputs/
-│ ├── sentiment_distribution.png
-│ ├── mean_pnl_by_sentiment.png
-│ ├── boxplot_pnl_by_sentiment.png
-│ ├── pca_clusters.png
-│ ├── cluster_pnl_by_sentiment.png
-│ └── cluster_feature_heatmap.png
-│
-├── ds_report.pdf # Final insight summary + conclusions
-└── README.md # Project documentation
+
+  notebook_1.ipynb # Data cleaning, feature engineering, merging sentiment
+  notebook_2.ipynb # Clustering, PCA, visualization, insights
+csv_files/
+
+outputs/
+  sentiment_distribution.png
+  mean_pnl_by_sentiment.png
+  boxplot_pnl_by_sentiment.png
+  pca_clusters.png
+  cluster_pnl_by_sentiment.png
+  cluster_feature_heatmap.png
+ds_report.pdf # Final insight summary + conclusions
+README.md # Project documentation
 
 
 ## 📝 Methodology Summary
@@ -76,7 +72,7 @@ Calculated:
 
 ---
 
-## 🚀 How to Reproduce the Analysis
+## How to Reproduce the Analysis
 1. Open **notebook_1.ipynb** and **notebook_2.ipynb** in Google Colab.
 2. Ensure the CSV files are placed inside `csv_files/` or upload via Colab.
 3. Run all cells.
@@ -85,9 +81,10 @@ Calculated:
 ---
 
 ## 🔗 Google Colab Links
-*(Replace with your shareable links – make sure access is set to → Anyone with the link can view)*
+
 
 NOTEBOOK 1:https://colab.research.google.com/drive/14ltDEkwQzA0QgaUWA8mZe6a0hoEvj3Yf?usp=sharing
+
 NOTEBOOK 2:https://colab.research.google.com/drive/15jiEcKQPkhlGoe1g7-XTTfmibci4IbqL?usp=sharing
 
 
