@@ -87,11 +87,8 @@ Calculated:
 ## 🔗 Google Colab Links
 *(Replace with your shareable links – make sure access is set to → Anyone with the link can view)*
 
-
-
-
-
-
+NOTEBOOK 1:https://colab.research.google.com/drive/14ltDEkwQzA0QgaUWA8mZe6a0hoEvj3Yf?usp=sharing
+NOTEBOOK 2:https://colab.research.google.com/drive/15jiEcKQPkhlGoe1g7-XTTfmibci4IbqL?usp=sharing
 
 
 ---
@@ -101,20 +98,4 @@ See **ds_report.pdf** for the full analysis narrative and business-oriented reco
 
 ---
 
-## ✉️ Submission Email Format
-
-**Subject:** Junior Data Scientist – Trader Behavior Insights  
-Send to:  
-saami@bajarangs.com, nagasai@bajarangs.com, chetan@bajarangs.com  
-CC: sonika@primetrade.ai  
-
-Include:
-- GitHub repo link
-- Colab links
-- Your resume
-
----
-
-If you'd like, I can now **check your GitHub repo to ensure zero rejection risk.**  
-Just send your link 👇
 
