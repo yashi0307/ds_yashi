@@ -14,7 +14,7 @@ The goal is to identify behavioral trading patterns and determine whether certai
 This assignment is part of the hiring evaluation for the Web3 Trading Intelligence Team.
 
 
-## 📝 Methodology Summary
+##  Methodology Summary
 
 ### 1. Data Preprocessing
 - Loaded historical trade events from Hyperliquid
@@ -40,7 +40,7 @@ Calculated:
 
 ---
 
-## 🎯 Key Insights
+##  Key Insights
 
 | Finding | Explanation |
 |--------|-------------|
@@ -71,7 +71,7 @@ NOTEBOOK 2:https://colab.research.google.com/drive/15jiEcKQPkhlGoe1g7-XTTfmibci4
 
 ---
 
-## 📄 Final Report
+##  Final Report
 See **ds_report.pdf** for the full analysis narrative and business-oriented recommendations.
 
 ---
