@@ -1,6 +1,6 @@
 # ds_yashi
 
-# 🧠 Trader Behavior vs Market Sentiment Analysis  
+# Trader Behavior vs Market Sentiment Analysis  
 **Candidate:** Yashi Sharma  
 **Role:** Junior Data Scientist – Trader Behavior Insights  
 **Dataset:** Hyperliquid Trader Data + Bitcoin Fear & Greed Index  
@@ -12,25 +12,6 @@ This project analyzes how trader performance on Hyperliquid changes with market 
 The goal is to identify behavioral trading patterns and determine whether certain trader groups perform better in specific sentiment conditions.
 
 This assignment is part of the hiring evaluation for the Web3 Trading Intelligence Team.
-
----
-
-## 📂 Repository Structure
-ds_yashi/
-
-  notebook_1.ipynb # Data cleaning, feature engineering, merging sentiment
-  notebook_2.ipynb # Clustering, PCA, visualization, insights
-csv_files/
-
-outputs/
-  sentiment_distribution.png
-  mean_pnl_by_sentiment.png
-  boxplot_pnl_by_sentiment.png
-  pca_clusters.png
-  cluster_pnl_by_sentiment.png
-  cluster_feature_heatmap.png
-ds_report.pdf # Final insight summary + conclusions
-README.md # Project documentation
 
 
 ## 📝 Methodology Summary
